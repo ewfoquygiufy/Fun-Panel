@@ -50,23 +50,12 @@
     section {
       margin-bottom: 40px;
     }
-    .donate {
-      display: inline-block;
-      background: #ffdd57;
-      color: #222;
-      margin: 8px 6px;
-      padding: 12px;
-      border-radius: 6px;
-      font-weight: bold;
-      text-decoration: none;
-      font-size: 1em;
-    }
-    .donate:hover { background: #ffca33; }
     footer {
       text-align: center;
       color: #777;
       font-size: 0.9em;
       margin-top: 60px;
+      font-style: italic;
       user-select: none;
     }
   </style>
@@ -100,23 +89,14 @@
         Blur
       </a>
       <a class="btn" draggable="true"
-         href="javascript:(function(){const fonts=['Arial','Verdana','Courier New','Comic Sans MS','Impact','Georgia','Times New Roman','Lucida Console','Papyrus','Trebuchet MS','Copperplate','Brush Script MT'];const walker=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT,null,false);let n;while(n=walker.nextNode()){if(n.nodeValue.trim()){const parts=n.nodeValue.split(/(\\s+)/);const frag=document.createDocumentFragment();parts.forEach(p=>{const span=document.createElement('span');span.textContent=p;if(!/\\s+/.test(p)){span.style.fontFamily = fonts[Math.floor(Math.random()*fonts.length)];}frag.appendChild(span);} );n.parentNode.replaceChild(frag,n);} }}());">
+         href="javascript:(function(){const fonts=['Arial','Verdana','Courier New','Comic Sans MS','Impact','Georgia','Times New Roman','Lucida Console','Papyrus','Trebuchet MS','Copperplate','Brush Script MT'];const walker=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT,null,false);let n;while(n=walker.nextNode()){if(n.nodeValue.trim()){const parts=n.nodeValue.split(/(\s+)/);const frag=document.createDocumentFragment();parts.forEach(p=>{const span=document.createElement('span');span.textContent=p;if(!/\s+/.test(p)){span.style.fontFamily = fonts[Math.floor(Math.random()*fonts.length)];}frag.appendChild(span);});n.parentNode.replaceChild(frag,n);}}}());">
         Font Fun
       </a>
     </div>
   </section>
 
-  <section>
-    <h2>Support & Feedback</h2>
-    <p>If you enjoyed these bookmarklets, feel free to support me:</p>
-    <a class="donate" href="https://www.buymeacoffee.com/levicarson" target="_blank">☕ Buy me a coffee</a>
-    <a class="donate" href="https://ko-fi.com/levicarson" target="_blank">🛋 Ko‑fi</a>
-    <p style="margin-top:12px;">Your support will help fund a full Chrome extension if donations reach the goal!</p>
-  </section>
-
   <footer>
-    Made by Levi Carson<br>
-    A Chrome extension is coming soon if enough people donate!
+    A Chrome extension is coming soon!
   </footer>
 </body>
 </html>
