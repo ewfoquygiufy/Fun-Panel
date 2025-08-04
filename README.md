@@ -20,12 +20,10 @@
 
 ## 💰 Support the Project
 
-If you enjoy using this and want to see more bookmarklets — or even a full **Chrome Extension version** — consider supporting me:
+If you enjoy using this and want to see more bookmarklets — or even a full **Chrome Extension version** — consider supporting me by spreading the word.
 
-- [☕ Buy me a coffee](https://www.buymeacoffee.com/levicarson)
-- [🛋 Ko-fi](https://ko-fi.com/levicarson)
 
-Every donation helps! A Chrome extension will be made if enough support comes in.
+A Chrome extension will be made if enough support comes in.
 
 ---
 
