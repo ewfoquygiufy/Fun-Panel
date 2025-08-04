@@ -1,9 +1,8 @@
-# Fun-Panel
 # 🎉 Fun Panel Bookmarklets
 
 **Fun Panel** is a collection of fun, visual bookmarklets you can drag into your bookmarks bar and use on any webpage. It includes effects like Shake, Disco, Flip, Font Fun, and more.
 
-📍 **Website**: [Click here to visit](https://levicarson.github.io/fun-panel-website/)  
+📍 **Website**: [https://ewfoquygiufy.github.io/Fun-Panel/index.html](https://ewfoquygiufy.github.io/Fun-Panel/index.html)  
 💡 Drag bookmarklets directly into your bookmarks bar and click them anytime!
 
 ---
@@ -32,7 +31,7 @@ Every donation helps! A Chrome extension will be made if enough support comes in
 
 ## ⚙️ How to Use
 
-1. Visit the website: [https://levicarson.github.io/fun-panel-website/](https://levicarson.github.io/fun-panel-website/)
+1. Visit the website: [https://ewfoquygiufy.github.io/Fun-Panel/index.html](https://ewfoquygiufy.github.io/Fun-Panel/index.html)
 2. Drag any bookmarklet button into your bookmarks bar.
 3. Visit any page and click the bookmarklet from your bar to activate the effect!
 
